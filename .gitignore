@@ -1,0 +1,5 @@
+.idea/
+target/
+src/main/resources/temp
+dependency-reduced-pom.xml
+gatling-test-project*.*
