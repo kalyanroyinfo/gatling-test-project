@@ -1,6 +1,6 @@
 # gatling-test-project
 
-###Execution Command
+### Execution Command
 
  mvn gatling:test
  
@@ -10,4 +10,7 @@ In this scenario we will hit following API:
 GET https://api.openbrewerydb.org/breweries
 
 Class Name: OpenBrewBasic.scala
+
+#### Scenario 2 Example
+
  
